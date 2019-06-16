@@ -1,2 +1,3 @@
 # Ignore the following files
 client/data
+node_modules/
